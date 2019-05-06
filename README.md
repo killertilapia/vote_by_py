@@ -1,8 +1,8 @@
 # With Python, we Vote
 
-So you can't decide who to vote also.  Why not let Python select who to vote for. 
+So you can't decide who to vote for the 2019 Midterm elections.  Why not let Python select who to vote for. 
 
-In Python, we Vote!
+With Python, we Vote!
 
 # Running
 
