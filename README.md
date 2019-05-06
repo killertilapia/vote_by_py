@@ -15,7 +15,7 @@ $ python vote_by_py.py
 
 To see options
 ```
-$ python voite_by_py.py --help
+$ python vote_by_py.py --help
 ```
 
 # Disclaimer!!!!
